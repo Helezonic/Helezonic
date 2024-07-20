@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=10000&color=4DF700&center=true&multiline=true&repeat=false&random=true&width=1080&lines=W+e+l+c+o+m+e)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 Full Stack Developer on the make.
