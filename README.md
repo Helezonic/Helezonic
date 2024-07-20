@@ -71,8 +71,13 @@ Full Stack Developer on the make.
 <br />
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helezonic&show_icons=true&theme=gotham&layout=compact)]
 
-[![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helezonic&show_icons=true&theme=gotham)]
+[![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helezonic&show_icons=true&theme=gotham&rank_icon=github&include_all_commits)]
+
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helezonic)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
 
 <!--
 **Helezonic/Helezonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
