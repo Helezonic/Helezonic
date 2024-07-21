@@ -77,7 +77,7 @@ Full Stack Developer on the make.
 
 [![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helezonic&show_icons=true&theme=gotham&rank_icon=github&include_all_commits)]
 
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helezonic)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helezon\&layout=compact)]
 
 
 
