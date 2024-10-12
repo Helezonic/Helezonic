@@ -80,7 +80,7 @@ Full Stack Developer on the make.
 [![wakatime](https://wakatime.com/badge/user/6db97a37-1e01-436e-bab1-c1e5fe63c7b8.svg)](https://wakatime.com/@6db97a37-1e01-436e-bab1-c1e5fe63c7b8)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helezon\&layout=compact)]
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helezon\&layout=compact)] -->
 
 
 
