@@ -76,7 +76,7 @@ Full Stack Developer on the make.
 <br />
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helezonic&show_icons=true&theme=gotham&layout=compact)] | [![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helezonic&show_icons=true&theme=gotham&rank_icon=github&include_all_commits)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helezonic&show_icons=true&theme=gotham&layout=donut&langs_count=6)  ![Shuaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helezonic&show_icons=true&theme=gotham&rank_icon=github&include_all_commits)
 
 [![wakatime](https://wakatime.com/badge/user/6db97a37-1e01-436e-bab1-c1e5fe63c7b8.svg)](https://wakatime.com/@6db97a37-1e01-436e-bab1-c1e5fe63c7b8)
 
