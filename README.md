@@ -18,7 +18,12 @@ Full Stack Developer on the make.
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/c/original.svg" />
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/bash/original.svg" />
-  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF"></img>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF"/>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/jquery/original.svg"></img>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/redux/original.svg"></img>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/appwrite/original.svg"></img>
+  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"></img>
 </div>
 <br />
 <br />
@@ -58,15 +63,13 @@ Full Stack Developer on the make.
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/spring/original.svg"></img>
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/vuejs/original.svg"></img>
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/svelte/original.svg"></img>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/redux/original.svg"></img>
+  
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/laravel/plain.svg"></img>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/jquery/original.svg"></img>
+  
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/kotlin/original.svg"></img>
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/firebase/plain.svg"></img>
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/flutter/original.svg"></img>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/figma/original.svg"></img>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/appwrite/original.svg"></img>
-  <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"></img>
+
   <img align="left" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/d3js/original.svg"></img>
 </div>
 <br />
