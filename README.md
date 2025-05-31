@@ -36,6 +36,7 @@ Full Stack Developer.
   <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg"></img>
   <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg"></img>
   <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/grafana/original.svg"></img>
+  <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/docker/original.svg"></img>
   
 </div>
 <br />
