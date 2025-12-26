@@ -1,0 +1,20 @@
+repo_name: Helezonic/Helezonic
+report_id: 8501be4cf17cba1654aedf5ddeb7c91e
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-28T21:53:49+00:00'
+requested_by: Helezonic
+provider: github
+branch: Helezonic-withoutwaka
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Helezonic/Helezonic
+  detection_source: Repo Metadata
